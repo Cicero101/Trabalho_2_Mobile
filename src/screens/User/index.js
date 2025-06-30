@@ -1,9 +1,8 @@
 import React from "react"
 import { useEffect, useState } from 'react';
-import { View, Text } from "react-native-web"
 import AsyncStorage from "@react-native-async-storage/async-storage"
 import { ContainerUser, ViewMargin, ViewAvatar } from "../../styles/style-geral"
-import { Button, TextInput, Avatar } from 'react-native-paper';
+import { TextInput, Avatar } from 'react-native-paper';
 
 
 export default function UserScreen(){

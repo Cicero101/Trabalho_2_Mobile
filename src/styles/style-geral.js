@@ -17,8 +17,6 @@ export const ContainerUser = styled.View`
     aling: center;
 `;
 
-
-
 export const Title = styled.Text`
     fontSize: 40px;
     color: #E85316;
@@ -63,7 +61,6 @@ export const TextConfig = styled.Text`
     text-align: left;
 `;
 
-
 export const ViewHome = styled.View`
     margin-top: 3px;
     padding: 5px;
@@ -79,7 +76,6 @@ export const ContainerHome = styled.View`
     padding: 5px;
     scroll-behavior: auto;
 `;
-
 
 export const ImageHome = styled.Image`
     width: 100%;

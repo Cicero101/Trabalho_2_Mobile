@@ -1,16 +1,9 @@
 import React from "react";
-
-import { View, Text, StyleSheet } from "react-native-web";
 import { useState } from "react";
-
 import { useNavigation } from "@react-navigation/native";
-
 import { Button, TextInput } from 'react-native-paper';
-
 import usuarioService from "../../services/usuarioService";
-
 import AsyncStorage from "@react-native-async-storage/async-storage";
-
 import { Container, Title, ViewMargin } from "../../styles/style-geral";
 
 

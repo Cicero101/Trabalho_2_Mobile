@@ -1,9 +1,9 @@
 import React from "react"
 import { useEffect, useState } from 'react';
 import AsyncStorage from "@react-native-async-storage/async-storage"
-import { TextHome, ContainerHome, ViewHome, ImageHome } from "../../styles/style-geral";
+import { ContainerHome, ViewHome, ImageHome } from "../../styles/style-geral";
 import { ScrollView } from 'react-native';
-import { Avatar, Button, Card, Text } from 'react-native-paper';
+import { Card, Text } from 'react-native-paper';
 
 export default function HomeScreen(){
 

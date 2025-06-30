@@ -26,7 +26,7 @@ import SimpleLineIcons from '@expo/vector-icons/SimpleLineIcons';
 
 import AsyncStorage from "@react-native-async-storage/async-storage"
 import usuarioService from './src/services/usuarioService';
-import { Button, Avatar } from 'react-native-paper';
+import { Button } from 'react-native-paper';
 
 
 //Cria as const's das navegações

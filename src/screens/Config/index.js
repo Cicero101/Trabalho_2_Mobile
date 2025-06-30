@@ -1,6 +1,5 @@
 import React from "react"
-import { View} from "react-native-web"
-import { Switch, Text } from 'react-native-paper';
+import { Switch } from 'react-native-paper';
 import { ContainerConfig, ViewConfig, TextConfig } from "../../styles/style-geral";
 
 export default function ConfigScreen(){
